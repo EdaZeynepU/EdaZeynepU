@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eda-uyan%c4%b1k-12629b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eda-uyan%c4%b1k-12629b1b6/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/edazuyanik?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/edazuyanik?hr_r=1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eda-uyanık-12629b1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eda-uyanık-12629b1b6" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/edazuyanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edazuyanik" height="30" width="40" /></a>
 </p>
 
 
